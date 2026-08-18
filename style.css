@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  line-height: 1.5;
+  color: #222;
+}
+
+header {
+  padding: 3rem 1rem;
+  text-align: center;
+  background: #f4f4f4;
+}
+
+main {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  color: #666;
+  font-size: 0.9rem;
+}
