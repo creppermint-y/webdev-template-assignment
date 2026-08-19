@@ -22,7 +22,7 @@ main {
   background-color: #lighter pink;
 }
 
-header2 {
+header {
   padding: 3rem 1rem;
   text-align: center;
   background-color: #light pink;
@@ -31,6 +31,6 @@ header2 {
 footer {
   text-align: center;
   padding: 1rem;
-  color: #light grey;
+  font-color: #light grey;
   font-size: 0.9rem;
 }
