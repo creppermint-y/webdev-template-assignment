@@ -6,7 +6,7 @@ body {
   margin: 0;
   font-family: system-ui,lucida handwriting;
   line-height: 1.5;
-  color: #pink;
+  color: #black;
 }
 
 header {
@@ -30,7 +30,7 @@ main {
 }
 
 header {
-  padding: 3rem 1rem;
+  padding: 2rem 1rem;
   text-align: center;
   background: #light pink;
 }
@@ -38,6 +38,6 @@ header {
 footer {
   text-align: center;
   padding: 1rem;
-  color: #light pink;
+  color: #light grey;
   font-size: 0.9rem;
 }
