@@ -29,11 +29,6 @@ main {
   height: 300px;
 }
 
-.row:after {
-  content:"";
-  display: table;
-  clear:both;
-  
 header {
   padding: 3rem 1rem;
   text-align: center;
