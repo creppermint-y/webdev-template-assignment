@@ -19,6 +19,7 @@ main {
   max-width: 700px;
   margin: 0 auto;
   padding: 2rem 1rem;
+  background: #lighter pink;
 }
 
 .column {
@@ -33,7 +34,12 @@ main {
   display: table;
   clear:both;
   
-
+header {
+  padding: 3rem 1rem;
+  text-align: center;
+  background: #light pink;
+}
+  
 footer {
   text-align: center;
   padding: 1rem;
