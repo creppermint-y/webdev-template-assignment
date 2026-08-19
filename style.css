@@ -6,31 +6,31 @@ body {
   margin: 0;
   font-family: system-ui,lucida handwriting;
   line-height: 1.5;
-  color: #black;
+  color: #000;
 }
 
 header {
   padding: 3rem 1rem;
   text-align: center;
-  background-color: #light pink;
+  background-color: #FFC;
 }
 
 main {
   max-width: 700px;
   margin: 0 auto;
   padding: 2rem 1rem;
-  background-color: #lighter pink;
+  background-color: #FFF;
 }
 
 header {
   padding: 3rem 1rem;
   text-align: center;
-  background-color: #light pink;
+  background-color: #FFC;
 }
   
 footer {
   text-align: center;
   padding: 1rem;
-  font-color: #666;
+  font-color: #999;
    font-size: 0.9rem;
 }
