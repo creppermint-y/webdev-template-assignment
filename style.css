@@ -12,7 +12,7 @@ body {
 header {
   padding: 3rem 1rem;
   text-align: center;
-  background: #f4f4f4;
+  background: #fce9f2;
 }
 
 main {
@@ -25,7 +25,7 @@ main {
   float: left;
   width: 33.33%;
   padding: 10px;
-  height: 30.px;
+  height: 300px;
 }
 
 footer {
