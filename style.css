@@ -12,7 +12,7 @@ body {
 header {
   padding: 3rem 1rem;
   text-align: center;
-  background: #fce9f2;
+  background: #light pink;
 }
 
 main {
@@ -27,6 +27,12 @@ main {
   padding: 10px;
   height: 300px;
 }
+
+.row:after {
+  content:"";
+  display: table;
+  clear:both;
+  
 
 footer {
   text-align: center;
